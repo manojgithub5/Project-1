@@ -74,8 +74,8 @@ For an in-depth walkthrough of the project, check out the detailed guide on [Has
 
 ## Connect with Me
 
-- GitHub: [GitHub Profile]((https://github.com/manojgithub5))
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)
+- GitHub: [GitHub Profile](https://github.com/manojgithub5)
+- LinkedIn: [LinkedIn Profile](http://linkedin.com/in/manoj-raj-2489ab21b)
 
 ## Contributions
 
